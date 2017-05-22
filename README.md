@@ -1,7 +1,9 @@
 # siloaderex
-动态链接库：LoaderDll 项目概述
-Source Insight 3.x 动态库注入之Hook目标函数，主要用于加载额外的动态库，比如sihook.dll，siutf8.dll动态库等
 
+动态链接库：LoaderDll 项目概述
+
+Source Insight 3.x 动态库注入之Hook目标函数，主要用于加载额外的动态库，比如sihook.dll，siutf8.dll动态库等
+方法：使用VS2013或者其他版本的IDE生成loaderdll.dll，并使用loaderex.exe加载
 /////////////////////////////////////////////////////////////////////////////
 
 其他标准文件：
